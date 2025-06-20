@@ -108,6 +108,7 @@ Our code is built on [GEN](https://github.com/XixiLiu95/GEN) repo, thanks a lot 
 
 ## Cite
 
+```
 @article{lu2025musia,
   title={MuSIA: Exploiting multi-source information fusion with abnormal activations for out-of-distribution detection},
   author={Lu, Heng-yang and Guo, Xin and Jiang, Wenyu and Fan, Chenyou and Du, Yuntao and Shao, Zhenhao and Fang, Wei and Wu, Xiaojun},
@@ -117,6 +118,7 @@ Our code is built on [GEN](https://github.com/XixiLiu95/GEN) repo, thanks a lot 
   year={2025},
   publisher={Elsevier}
 }
+```
 
 contact: 2674507042@qq.com
 
